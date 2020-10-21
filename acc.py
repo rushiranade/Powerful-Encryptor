@@ -1,7 +1,7 @@
 # COPYRIGHT 2020 - RUSHI RANADE'S APPS
 # ENHANCED ENCRYPTION
 # CHECK MY OTHER ENCRYPTION REPO
-def encrypt(text,s, n): 
+def encryptor(text,s, n): 
     result = "" 
     for i in range(len(text)):
         char = text[i] 
