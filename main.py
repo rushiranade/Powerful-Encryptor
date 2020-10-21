@@ -1,4 +1,4 @@
-from acc import encrypt
+from acc import encryptor
 word = input("Enter the word: ")
 hashamount = int(input("Hash amount. Recommended: 100 :- "))
 n = int(input("Enter a number that indicates how many letters you want to change: "))
